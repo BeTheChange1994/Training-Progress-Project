@@ -1,0 +1,19 @@
+{
+  "name": "training-progress-project",
+  "version": "1.0.0",
+  "description": "First test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeTheChange1994/Training-Progress-Project.git"
+  },
+  "author": "Aron Moran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeTheChange1994/Training-Progress-Project/issues"
+  },
+  "homepage": "https://github.com/BeTheChange1994/Training-Progress-Project#readme"
+}
